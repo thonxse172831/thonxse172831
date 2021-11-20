@@ -1,0 +1,2 @@
+
+    printf("\nMin: %d ",min);
